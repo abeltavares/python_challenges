@@ -18,15 +18,15 @@ To run the code, you need to have Python installed on your computer. You can dow
 ### Installing
 1. Clone the repository: <br>
 
-     $ git clone https://github.com/abeltavares/python_challanges.git <br>
+       $ git clone https://github.com/abeltavares/python_challanges.git 
 
 2. Navigate to the repository: <br>
 
-     $ cd python-challenges <br>
+       $ cd python-challenges 
 
 3. Run the code for a specific challenge:<br>
 
-     $ python [challenge_file_name].py
+       $ python challenge.py
 
 ## Challenges
 
