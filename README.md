@@ -1,2 +1,2 @@
 # Python Challanges
-Repository dedicated to solving various programming challenges in the Python language.
+Repository dedicated to solving programming challenges in the Python language.
