@@ -1,3 +1,7 @@
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey&labelColor=0a0a0a&link=https://www.codewars.com&link=https://www.codewars.com&height28&width=2)](https://www.codewars.com)
+
+[![Python Version](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/downloads/)
+       
 # Python Challenges
 This repository contains my solutions to various Python challenges from [Codewars](https://www.codewars.com/).
 
