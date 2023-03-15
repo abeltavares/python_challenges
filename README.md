@@ -34,7 +34,7 @@ To run the code, you need to have Python installed on your computer. You can dow
 
 ## Challenges
 
-The challenges are divided by difficulty level, with '1kyu' being the hardest and '8kyu' being the easiest. The challenges can be found in the challenges directory, which is organized into subdirectories for each difficulty level.
+The challenges are divided by difficulty level, with `1kyu` being the hardest and `8kyu` being the easiest. The challenges can be found in the challenges directory, which is organized into subdirectories for each difficulty level.
 Each challenge has its own separate folder inside the difficulty level directory, which contains a description of the task in a text file and my solution in a Python file.
 
 More challenges will be added as I complete them.
